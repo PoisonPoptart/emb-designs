@@ -6,3 +6,6 @@ mainly vp3 files, but have most other versions as well in case i get a new embro
 note to self: use the green "code" button to download everything as a zip file and keep the organization.<br/>
 
 * reminder: upload ART, BMC, COL, DST, EMD, EXP, HUS, JEF, PCS, PES, SEW, SHV, TBF, VIP, XXX etc versions eventually
+
+if anyone would like to help me collect the missing designs from my collection, please let me know <3<br/>
+there used to be more "collection" sets from all these places, many don't exist anymore unless you can find a physical copy somewhere :(
